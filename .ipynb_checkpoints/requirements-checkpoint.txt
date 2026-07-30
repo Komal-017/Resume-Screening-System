@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+nltk
+PyMuPDF
+python-docx
+pytesseract
+Pillow
+pdf2image
+matplotlib
+seaborn
