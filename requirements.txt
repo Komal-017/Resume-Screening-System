@@ -12,3 +12,4 @@ pdf2image
 matplotlib
 seaborn
 plotly
+reportlab
