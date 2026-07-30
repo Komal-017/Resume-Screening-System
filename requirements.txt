@@ -11,3 +11,4 @@ Pillow
 pdf2image
 matplotlib
 seaborn
+plotly
