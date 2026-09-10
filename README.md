@@ -108,16 +108,6 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Developed By
-
-**Komal Omer**
-
-B.Tech Computer Science Engineering
-
-Babu Banarasi Das University
-
----
-
 ## 📜 License
 
 This project is developed for educational and learning purposes.
